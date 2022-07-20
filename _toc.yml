@@ -1,7 +1,7 @@
-- file: README
-  numbered: false
-
-- part: Chapters
+format: jb-book
+root: README
+parts:
+- caption: Chapters
   chapters:
   - file: chapters/chapter1-basics
   - file: chapters/chapter2-loops-functions
@@ -12,8 +12,7 @@
   - file: chapters/chapter7-pandas
   - file: chapters/chapter8-wrangling-basics
   - file: chapters/chapter9-wrangling-advanced
-
-- part: Practice Exercises
+- caption: Practice Exercises
   chapters:
   - file: practice-exercises/chapter1-basics-practice.ipynb
   - file: practice-exercises/chapter2-loops-functions-practice.ipynb
