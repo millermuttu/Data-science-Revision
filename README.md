@@ -1,6 +1,6 @@
 # Python Programming for Data Science
 
-** A Repo to revise your data science concepts within a day **
+**A Repo to revise your data science concepts within a day**
 
 ## Topics covered
 * Python basics
@@ -10,7 +10,7 @@
 * Data wrangling
 
 <p align="center">
-  <img src="docs/logo.png" width="260">
+  <img src="docs/logo.png" width="200">
 </p>
 
 
