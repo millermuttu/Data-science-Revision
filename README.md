@@ -20,11 +20,11 @@ The material on this site is written in Jupyter notebooks and rendered using [Ju
 
 1. Clone the GitHub repository:
    ```sh
-   git clone https://github.com/TomasBeuzen/python-programming-for-data-science.git
+   git clone https://github.com/millermuttu/Data-science-Revision.git
    ```
 2. Install the conda environment by typing the following in your terminal:
    ```sh
-   conda env create -f py4ds.yaml
+   conda env create -f env.yaml
    ```
 3. Open the course in JupyterLab by typing the following in your terminal:
    ```sh
